@@ -1,8 +1,7 @@
 # Rahman Islamzada
 
-ML Engineering Intern at FlyRank AI, working on LLMs and machine learning systems. Studying Computer Engineering at Qarabağ University while going through Holberton School's software engineering program in parallel.
+Worked on LLMs and machine learning systems as an ML Engineering Intern at FlyRank AI. Graduated from Holberton School's software engineering program (Python track) with a 100% overall score, and currently studying Computer Engineering at Karabakh University.
 
-I build things that actually run — from fraud detection models to REST APIs to hardware architecture work. Still early, but moving fast.
 
 🌐 **Portfolio:** [rahmanislamzada.github.io](https://rahmanislamzada.github.io)  
 📍 Baku, Azerbaijan  
